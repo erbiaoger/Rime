@@ -1,0 +1,184 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	286
+#@/user_id	69f93761-ef11-41a2-8f14-307e889deef6
+an zhuang 	安装	c=1 d=1 t=137
+ba 	把	c=2 d=1.90937 t=228
+bian 	边	c=0 d=0.1 t=128
+bian liang 	变量	c=1 d=1 t=185
+bian yi 	编译	c=3 d=2.82971 t=130
+bian yi wan cheng 	边已完成	c=1 d=1 t=129
+biao qian 	标签	c=2 d=1.956 t=265
+biao shi 	表示	c=1 d=1 t=26
+bing 	并	c=6 d=4.47757 t=156
+bing mei you 	并没有	c=1 d=1 t=241
+bing zhen 	冰震	c=1 d=1 t=47
+bu 	不	c=1 d=1 t=274
+bu dai 	不带	c=1 d=1 t=229
+bu shi 	不是	c=1 d=1 t=273
+bu yao 	不要	c=1 d=1 t=70
+can shu 	参数	c=0 d=0.1 t=285
+cha 	差	c=1 d=1 t=17
+cha zhi 	差值	c=1 d=1 t=23
+chang shu 	常数	c=1 d=1 t=186
+cheng 	成	c=1 d=1 t=104
+cheng xu 	程序	c=1 d=1 t=100
+chong xin 	重新	c=1 d=1 t=246
+chu li 	处理	c=4 d=3.41344 t=258
+chui ji 	锤击	c=1 d=1 t=49
+cong 	从	c=1 d=1 t=135
+cong zhong 	从中	c=1 d=1 t=226
+dai 	待	c=1 d=1 t=252
+dai ma 	代码	c=9 d=5.86649 t=250
+dai tong 	带通	c=1 d=1 t=212
+dao ru 	导入	c=1 d=1 t=80
+de 	的	c=9 d=5.59535 t=285
+di er ge 	第二个	c=1 d=1 t=218
+di zhen 	地震	c=1 d=1 t=160
+dian 	点	c=1 d=1 t=220
+dian hua 	电话	c=1 d=1 t=3
+diao 	掉	c=1 d=1 t=133
+dong tu 	动图	c=1 d=1 t=182
+dui ying 	对应	c=1 d=1 t=236
+dui ying dian 	对应点	c=1 d=1 t=248
+dui yu 	对于	c=1 d=1 t=165
+duo zuo 	多做	c=1 d=1 t=267
+er shi 	而是	c=1 d=1 t=242
+fen 	分	c=2 d=1.50916 t=206
+fen ge 	分割	c=3 d=2.67887 t=280
+fen zhong 	分钟	c=3 d=2.81078 t=38
+fu shu 	复数	c=1 d=1 t=170
+gan jing 	干净	c=1 d=1 t=219
+ge shi 	格式	c=1 d=1 t=66
+gei chu 	给出	c=1 d=1 t=245
+gen hao 	根号	c=1 d=1 t=177
+geng gai 	更改	c=1 d=1 t=169
+geng hao 	更好	c=1 d=1 t=272
+guo 	过	c=1 d=1 t=213
+han shu 	函数	c=1 d=1 t=167
+hao 	好	c=2 d=1.75957 t=278
+hao de 	好的	c=2 d=1.76721 t=277
+he 	和	c=3 d=2.04938 t=141
+hen bu cuo 	很不错	c=1 d=1 t=222
+hou 	后	c=2 d=1.52729 t=259
+hou xu 	后续	c=1 d=1 t=266
+hui 	会	c=1 d=1 t=271
+hui da 	回答	c=1 d=1 t=164
+hui zhi 	绘制	c=1 d=1 t=181
+ji suan 	计算	c=2 d=1.46301 t=174
+jia 	加	c=1 d=1 t=33
+jia 	夹	c=2 d=1.94176 t=109
+jian ce 	检测	c=1 d=1 t=203
+jiang 	将	c=1 d=1 t=150
+jiang qi 	将其	c=1 d=1 t=106
+jiao cheng 	教程	c=1 d=1 t=44
+jing tong 	精通	c=1 d=1 t=144
+kai 	开	c=3 d=2.5777 t=175
+kai yuan 	开源	c=1 d=1 t=193
+kan chu lai 	看出来	c=1 d=1 t=215
+ke yi 	可以	c=1 d=1 t=221
+ku 	库	c=2 d=1.92774 t=93
+lai 	来	c=1 d=1 t=91
+lao 	老	c=1 d=1 t=125
+le 	了	c=2 d=1.63763 t=216
+li 	里	c=1 d=1 t=76
+lian jie 	链接	c=2 d=1.87372 t=119
+liang zhong 	两种	c=1 d=1 t=207
+ma 	嘛	c=1 d=1 t=214
+mei yi ju 	每一句	c=1 d=1 t=202
+mei you 	没有	c=1 d=1 t=208
+ming 	名	c=1 d=1 t=232
+ni 	你	c=0 d=0.1 t=138
+ni zuo wen 	你作文	c=1 d=1 t=139
+pei dui 	配对	c=1 d=1 t=275
+pi ka 	皮卡	c=0 d=0.1 t=56
+pi ka yu 	皮卡鱼	c=1 d=1 t=57
+pin yin 	拼音	c=0 d=0.1 t=1
+qi 	其	c=1 d=1 t=111
+qi zhong 	其中	c=1 d=1 t=123
+qie guo 	切过	c=1 d=1 t=210
+qing 	请	c=3 d=2.22357 t=149
+qing chu 	清除	c=1 d=1 t=132
+qu chu 	取出	c=1 d=1 t=233
+ru he 	如何	c=13 d=7.18951 t=225
+ruan jian 	软件	c=3 d=2.44998 t=199
+san ci 	三次	c=2 d=1.9802 t=176
+shang 	上	c=2 d=1.90484 t=32
+she ying 	摄影	c=1 d=1 t=138
+shen me 	什么	c=2 d=1.96079 t=53
+shi 	使	c=1 d=1 t=22
+shi 	是	c=4 d=3.30869 t=257
+shi hou 	时候	c=1 d=1 t=240
+shi jian 	时间	c=2 d=1.92774 t=31
+shi pin 	视频	c=1 d=1 t=136
+shi yong 	使用	c=11 d=6.18096 t=238
+shu chu 	输出	c=6 d=3.46179 t=235
+shu ju 	数据	c=5 d=3.99675 t=260
+suan chu 	算出	c=1 d=1 t=13
+te dian 	特点	c=1 d=1 t=54
+ti 	提	c=1 d=1 t=234
+ti gong 	提供	c=1 d=1 t=42
+tian jia 	添加	c=2 d=1.80654 t=200
+tou 	头	c=1 d=1 t=112
+wei 	为	c=2 d=1.80252 t=184
+wei yu 	位于	c=1 d=1 t=114
+wen ben 	文本	c=2 d=1.9802 t=63
+wen jian 	文件	c=6 d=3.79966 t=231
+wen jian jia 	文件夹	c=1 d=1 t=115
+wo jue de 	我觉得	c=1 d=1 t=217
+wo zai 	我在	c=1 d=1 t=94
+wu fa 	无法	c=1 d=1 t=4
+wu ge 	五个	c=1 d=1 t=264
+xia 	下	c=3 d=2.88437 t=116
+xia zai 	下载	c=1 d=1 t=162
+xian 	先	c=1 d=1 t=205
+xian zai 	现在	c=1 d=1 t=261
+xiang qi 	象棋	c=1 d=1 t=55
+xiao guo 	效果	c=1 d=1 t=269
+xiao he 	小鹤	c=0 d=0.1 t=1
+xiao he pin yin 	小鹤拼音	c=1 d=1 t=2
+xiao shi 	小时	c=2 d=1.8825 t=34
+xie 	些	c=1 d=1 t=268
+xie 	写	c=1 d=1 t=247
+xin 	新	c=1 d=1 t=283
+xin hao 	信号	c=1 d=1 t=51
+xin xi 	信息	c=1 d=1 t=6
+xing shi 	形式	c=2 d=1.3588 t=244
+xun lian 	训练	c=1 d=1.09501 t=285
+xun lian can shu 	训练参数	c=1 d=1 t=286
+yi 	以	c=4 d=2.50848 t=243
+yi dong dao 	移动到	c=1 d=1 t=107
+yi ge 	一个	c=1 d=1 t=192
+yi qi 	一起	c=1 d=1 t=67
+yi wan cheng 	已完成	c=0 d=0.1 t=128
+yi xia 	以下	c=2 d=1.64082 t=151
+yi zheng duan 	一整段	c=1 d=1 t=75
+ying gai 	应该	c=1 d=1 t=270
+yong 	用	c=2 d=1.98511 t=27
+yong dao 	用到	c=1 d=1 t=124
+yong yu 	用于	c=1 d=1 t=5
+you 	有	c=2 d=1.79057 t=99
+yu 	与	c=2 d=1.96079 t=197
+yu 	于	c=1 d=1 t=145
+yu 	鱼	c=0 d=0.1 t=56
+yuan 	原	c=1 d=1 t=85
+zai 	在	c=5 d=3.72734 t=128
+zhan shi 	展示	c=2 d=1.96079 t=198
+zhang zhi yu 	张志宇	c=2 d=1.25284 t=276
+zhe ge 	这个	c=2 d=1.70117 t=166
+zhe shi 	这是	c=2 d=1.70469 t=281
+zheng li 	整理	c=2 d=1.98511 t=61
+zhi 	只	c=1 d=1 t=262
+zhong 	中	c=1 d=1 t=87
+zhong guo 	中国	c=1 d=1 t=159
+zhong wen 	中文	c=1 d=1 t=163
+zhu dong 	主动	c=1 d=1 t=48
+zhu shi 	注释	c=2 d=1.80654 t=201
+zhu yi 	注意	c=1 d=1 t=69
+zhuan cheng 	转成	c=2 d=1.96561 t=154
+zhuan jia 	专家	c=1 d=1 t=143
+zuo le 	做了	c=1 d=1 t=263
+zuo wan 	昨晚	c=1 d=1 t=282
+zuo wen 	作文	c=0 d=0.1 t=138
