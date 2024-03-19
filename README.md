@@ -1,6 +1,5 @@
 ## 词库安装使用步骤
-
-本文只介绍MacOS下如何安装配置Rime输入法，支持中英文混合输入、Shift切换中英文输入、并最大化还原MacOS自带的输入法样式。
+## Mac Os
 
 最终效果:
 
@@ -34,3 +33,38 @@
 - custom_phrase.txt
 
   这个文件中可以配置一些个人常用但词库中又没有的词汇
+
+
+## Linux 
+
+### 1. 安装 RIME
+```shell
+sudo pacman -S fcitx-rime
+```
+
+### 2. 配置数据
+```shell
+sudo cp xinshijiwubi.dict.yaml /usr/share/rime-data
+sudo mv xinshijiwubi.schema.yaml /usr/share/rime-data
+```
+
+### 3. 方案添加到`default.yaml`
+```shell
+vim ~/.config/fcitx/rime/default.yaml
+
+or
+
+cp deault.yaml ~/.config/fcitx/rime/default.yaml
+```
+
+### 4. 重新布署
+```shell
+rime_deployer --build ~/.config/fcitx/rime /usr/share/rime-data/
+```
+
+
+
+
+
+
+
